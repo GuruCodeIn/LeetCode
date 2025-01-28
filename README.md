@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GuruCodeIn/LeetCode/tree/master/0001-two-sum) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/GuruCodeIn/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/GuruCodeIn/LeetCode/tree/master/0002-add-two-numbers) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/GuruCodeIn/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Recursion
 |  |
 | ------- |
