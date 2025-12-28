@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/GuruCodeIn/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/GuruCodeIn/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GuruCodeIn/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Binary Search
@@ -69,5 +70,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/GuruCodeIn/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/GuruCodeIn/LeetCode/tree/master/0008-string-to-integer-atoi) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/GuruCodeIn/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
