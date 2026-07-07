@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/GuruCodeIn/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GuruCodeIn/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/GuruCodeIn/LeetCode/tree/master/0012-integer-to-roman) |
 ## Linked List
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/GuruCodeIn/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/GuruCodeIn/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/GuruCodeIn/LeetCode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/GuruCodeIn/LeetCode/tree/master/0012-integer-to-roman) |
 | [0670-maximum-swap](https://github.com/GuruCodeIn/LeetCode/tree/master/0670-maximum-swap) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/GuruCodeIn/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Recursion
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/GuruCodeIn/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/GuruCodeIn/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/GuruCodeIn/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/GuruCodeIn/LeetCode/tree/master/0012-integer-to-roman) |
 ## Dynamic Programming
 |  |
 | ------- |
