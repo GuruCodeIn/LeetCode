@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/GuruCodeIn/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/GuruCodeIn/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GuruCodeIn/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/GuruCodeIn/LeetCode/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/GuruCodeIn/LeetCode/tree/master/0162-find-peak-element) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/GuruCodeIn/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/GuruCodeIn/LeetCode/tree/master/0792-binary-search) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/GuruCodeIn/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/GuruCodeIn/LeetCode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/GuruCodeIn/LeetCode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/GuruCodeIn/LeetCode/tree/master/0118-pascals-triangle) |
 ## Sliding Window
 |  |
 | ------- |
