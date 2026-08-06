@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GuruCodeIn/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/GuruCodeIn/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GuruCodeIn/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/GuruCodeIn/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/GuruCodeIn/LeetCode/tree/master/0162-find-peak-element) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/GuruCodeIn/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/GuruCodeIn/LeetCode/tree/master/0792-binary-search) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/GuruCodeIn/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/GuruCodeIn/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/GuruCodeIn/LeetCode/tree/master/0136-single-number) |
 ## Backtracking
 |  |
 | ------- |
