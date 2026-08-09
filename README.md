@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GuruCodeIn/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/GuruCodeIn/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/GuruCodeIn/LeetCode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/GuruCodeIn/LeetCode/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/GuruCodeIn/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/GuruCodeIn/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/GuruCodeIn/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/GuruCodeIn/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/GuruCodeIn/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/GuruCodeIn/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0268-missing-number](https://github.com/GuruCodeIn/LeetCode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/GuruCodeIn/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/GuruCodeIn/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/GuruCodeIn/LeetCode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/GuruCodeIn/LeetCode/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/GuruCodeIn/LeetCode/tree/master/0670-maximum-swap) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/GuruCodeIn/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Recursion
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/GuruCodeIn/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/GuruCodeIn/LeetCode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/GuruCodeIn/LeetCode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/GuruCodeIn/LeetCode/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/GuruCodeIn/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/GuruCodeIn/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/GuruCodeIn/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -107,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/GuruCodeIn/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/GuruCodeIn/LeetCode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/GuruCodeIn/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/GuruCodeIn/LeetCode/tree/master/0268-missing-number) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/GuruCodeIn/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 ## String
 |  |
@@ -145,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/GuruCodeIn/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/GuruCodeIn/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/GuruCodeIn/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/GuruCodeIn/LeetCode/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
